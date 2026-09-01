@@ -1,6 +1,6 @@
 title: Potentially Suspicious Inline JavaScript Execution via NodeJS Binary
 id: 8537c866-072e-460d-bfff-aaf39cbd73d3
-status: experimental
+status: test
 description: Detects potentially suspicious inline JavaScript execution using Node.js with specific keywords in the command line.
 references:
     - https://www.microsoft.com/en-us/security/blog/2025/04/15/threat-actors-misuse-node-js-to-deliver-malware-and-other-malicious-payloads/

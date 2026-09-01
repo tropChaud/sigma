@@ -1,6 +1,6 @@
 title: NodeJS Execution of JavaScript File
 id: ba3874b9-0fae-465f-836c-eb5d071a1789
-status: experimental
+status: test
 description: |
     Detects execution of JavaScript or JSC files using NodeJs binary node.exe, that could be potentially suspicious.
     Node.js is a popular open-source JavaScript runtime that runs code outside browsers and is widely used for both frontend and backend development.

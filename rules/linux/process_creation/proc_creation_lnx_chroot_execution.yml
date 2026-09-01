@@ -1,6 +1,6 @@
 title: Linux Sudo Chroot Execution
 id: f2bed782-994e-4f40-9cd5-518198cb3fba
-status: experimental
+status: test
 description: |
     Detects the execution of 'sudo' command with '--chroot' option, which is used to change the root directory for command execution.
     Attackers may use this technique to evade detection and execute commands in a modified environment.
