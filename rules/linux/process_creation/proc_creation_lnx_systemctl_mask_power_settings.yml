@@ -1,6 +1,6 @@
 title: Mask System Power Settings Via Systemctl
 id: c172b7b5-f3a1-4af2-90b7-822c63df86cb
-status: experimental
+status: test
 description: |
     Detects the use of systemctl mask to disable system power management targets such as suspend, hibernate, or hybrid sleep.
     Adversaries may mask these targets to prevent a system from entering sleep or shutdown states, ensuring their malicious processes remain active and uninterrupted.

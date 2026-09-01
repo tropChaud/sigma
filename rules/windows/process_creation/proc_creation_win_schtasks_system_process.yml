@@ -1,6 +1,6 @@
 title: Scheduled Task Creation Masquerading as System Processes
 id: 9f8573c9-22b4-40e3-89c1-72bc2b8d49ab
-status: experimental
+status: test
 description: Detects the creation of scheduled tasks that involve system processes, which may indicate malicious actors masquerading as or abusing these processes to execute payloads or maintain persistence.
 references:
     - https://tria.ge/241015-l98snsyeje/behavioral2

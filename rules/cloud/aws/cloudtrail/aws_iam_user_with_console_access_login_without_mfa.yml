@@ -1,6 +1,6 @@
 title: AWS IAM User with Console Access Login Without MFA
 id: 77caf516-34e5-4df9-b4db-20744fea0a60
-status: experimental
+status: test
 description: |
     Identifies AWS IAM user authentication to the AWS Management Console without Multi-Factor Authentication (MFA).
     IAM users who can access the Console but haven't enabled MFA pose a security risk. These accounts could be compromised through credential stuffing, brute force attacks, or social engineering techniques.

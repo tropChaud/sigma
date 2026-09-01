@@ -1,6 +1,6 @@
 title: Hacktool - EDR-Freeze Execution
 id: c598cc0c-9e70-4852-b9eb-8921af79f598
-status: experimental
+status: test
 description: |
     Detects execution of EDR-Freeze, a tool that exploits the MiniDumpWriteDump function and WerFaultSecure.exe to suspend EDR and Antivirus processes on Windows.
     EDR-Freeze leverages a race-condition attack to put security processes into a dormant state by suspending WerFaultSecure at the moment it freezes the target process.

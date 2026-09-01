@@ -1,6 +1,6 @@
 title: Suspicious Velociraptor Child Process
 id: 4bc90587-e6ca-4b41-be0b-ed4d04e4ed0c
-status: experimental
+status: test
 description: Detects the suspicious use of the Velociraptor DFIR tool to execute other tools or download additional payloads, as seen in a campaign where it was abused for remote access and to stage further attacks.
 references:
     - https://news.sophos.com/en-us/2025/08/26/velociraptor-incident-response-tool-abused-for-remote-access/

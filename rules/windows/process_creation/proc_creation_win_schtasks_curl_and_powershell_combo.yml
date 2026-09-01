@@ -1,6 +1,6 @@
 title: Scheduled Task Creation with Curl and PowerShell Execution Combo
 id: 1d174d38-8fda-4081-a9b6-56d9763c0cd8
-status: experimental
+status: test
 description: |
     Detects the creation of a scheduled task using schtasks.exe, potentially in combination with curl for downloading payloads and PowerShell for executing them.
     This facilitates executing malicious payloads or connecting with C&C server persistently without dropping the malware sample on the host.
